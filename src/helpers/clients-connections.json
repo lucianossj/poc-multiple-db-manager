@@ -1,0 +1,18 @@
+[
+    {
+        "host": "HOST",
+        "port": 3306,
+        "user": "pocuser",
+        "password": "g7V6A/GlDn{",
+        "database": "poc1",
+        "timezone": "utc-3"
+    },
+    {
+        "host": "HOST",
+        "port": 3306,
+        "user": "pocuser2",
+        "password": "p2U+zohK#B9vN",
+        "database": "poc2",
+        "timezone": "utc-3"
+    }
+]
