@@ -1,0 +1,32 @@
+{
+  "name": "poc-multiple-db-manager",
+  "version": "1.0.0",
+  "description": "Multiple Database Manager using Knex",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "dev": "nodemon app",
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiorafa/fasc-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tiorafa/fasc-backend/issues"
+  },
+  "homepage": "https://github.com/tiorafa/fasc-backend#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "knex": "^0.20.11",
+    "md5": "^2.2.1",
+    "moment": "^2.26.0",
+    "mysql": "^2.18.1",
+    "restify": "^8.5.1",
+    "restify-cors-middleware": "^1.1.1",
+    "restify-router": "^0.5.1"
+  }
+}
